@@ -51,12 +51,6 @@ const tags = computed(() => {
     return props.item.tags?.split(', ') || [];
 })
 
-const getLink = (item: any, link: any) => {
-    if (!item.value) return 
-    console.log("ITEM", item.vale, link.name);
-    return item.value[link.name]
-}
-
 </script>
 
 <style scoped>
