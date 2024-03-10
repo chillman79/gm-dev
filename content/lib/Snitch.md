@@ -5,6 +5,8 @@ author: JuJuAdams
 github: https://github.com/JujuAdams/Snitch
 tags: Snitch
 documentation: https://JuJuAdams.github.io/Snitch
+cover: https://raw.githubusercontent.com/JujuAdams/Snitch/master/LOGO.png
+coverPosition: left
 ---
 <p align="center"><img src="https://raw.githubusercontent.com/JujuAdams/Snitch/master/LOGO.png" style="display:block; margin:auto; width:300px"></p>
 

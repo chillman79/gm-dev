@@ -3,7 +3,7 @@ title: db
 description: Savedata database system for GameMaker
 author: JuJuAdams
 github: https://github.com/JujuAdams/db
-tags: db
+tags: database
 documentation: https://JuJuAdams.github.io/db
 ---
 <p align="center"><img src="https://raw.githubusercontent.com/JujuAdams/db/master/LOGO.png" style="display:block; margin:auto; width:300px"></p>

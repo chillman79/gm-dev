@@ -5,6 +5,8 @@ author: JuJuAdams
 github: https://github.com/JujuAdams/Bulb
 tags: Bulb
 documentation: https://JuJuAdams.github.io/Bulb
+cover: https://raw.githubusercontent.com/JujuAdams/bulb/master/LOGO.png
+coverPosition: left
 ---
 <p align="center"><img src="https://raw.githubusercontent.com/JujuAdams/Bulb/master/LOGO.png" style="display:block; margin:auto; width:300px"></p>
 

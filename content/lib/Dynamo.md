@@ -5,6 +5,8 @@ author: JuJuAdams
 github: https://github.com/JujuAdams/Dynamo
 tags: Dynamo
 documentation: https://JuJuAdams.github.io/Dynamo
+cover: https://raw.githubusercontent.com/JujuAdams/Dynamo/master/LOGO.png
+coverPosition: left
 ---
 <p align="center"><img src="https://raw.githubusercontent.com/JujuAdams/Dynamo/master/LOGO.png" style="display:block; margin:auto; width:300px"></p>
 <h1 align="center">Dynamo 3.0.4</h1>

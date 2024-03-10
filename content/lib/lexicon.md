@@ -5,6 +5,8 @@ author: tabularelf
 github: https://github.com/tabularelf/lexicon
 tags: lexicon
 documentation: https://docs.tabularelf.com/lexicon
+cover: https://docs.tabularelf.com/lexicon/assets/logo.svg
+coverPosition: left
 ---
 # Lexicon v2.1.6
 

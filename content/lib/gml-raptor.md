@@ -3,7 +3,9 @@ title: gml-raptor
 description: GameMaker Evolved
 author: Grisgram
 github: https://github.com/Grisgram/gml-raptor
-tags: gml-raptor
+tags: template
+cover: https://www.coldrock.games/assets/raptor/gml-raptor-logo.png
+coverPosition: left
 ---
 <p align="center"><img src="https://github.com/Grisgram/gml-raptor/assets/19487451/cdb2ceb4-c13e-4f6f-bfe9-cba63fc6cff4.png" style="display:block; margin:auto; width:438px"></p>
 <h1 align="center">Release 2403.2</h1>

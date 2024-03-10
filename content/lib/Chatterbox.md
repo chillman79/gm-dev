@@ -5,6 +5,8 @@ author: JuJuAdams
 github: https://github.com/JujuAdams/Chatterbox
 tags: Chatterbox
 documentation: https://JuJuAdams.github.io/Chatterbox
+cover: https://raw.githubusercontent.com/JujuAdams/Chatterbox/master/LOGO.png
+coverPosition: left
 ---
 <p align="center"><img src="https://raw.githubusercontent.com/JujuAdams/Chatterbox/master/LOGO.png" style="display:block; margin:auto; width:400px"></p>
 <h1 align="center">Chatterbox 2.13.0</h1>

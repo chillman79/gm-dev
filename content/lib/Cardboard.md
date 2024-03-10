@@ -5,6 +5,8 @@ author: JuJuAdams
 github: https://github.com/JujuAdams/Cardboard
 tags: Cardboard
 documentation: https://JuJuAdams.github.io/Cardboard
+cover: https://raw.githubusercontent.com/JujuAdams/Cardboard/master/LOGO.png
+coverPostiion: left
 ---
 <p align="center"><img src="https://raw.githubusercontent.com/JujuAdams/Cardboard/master/LOGO.png" style="display:block; margin:auto; width:400px"></p>
 
