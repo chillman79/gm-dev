@@ -4,10 +4,16 @@
         <a href="https://gamemaker.io" target="blank">Game Maker Web</a>
     </li>
     <li>
+        <a href="https://forum.gamemaker.io/index.php" target="blank">Game Maker Forum</a>
+    </li>
+    <li>
         <a href="https://discord.com/invite/gamemaker" target="blank">Game Maker Discord</a>
     </li>
     <li>
         <a href="https://discord.com/invite/RDYyRqBswD" target="blank">Game Maker Kitchen Discord</a>
+    </li>
+    <li>
+        <a href="https://www.gmlscripts.com/" target="blank">GML Scripts</a>
     </li>
     <li>
         <a href="https://github.com/chillman79/gm-dev" target="blank">Game Maker Dev Github</a>
