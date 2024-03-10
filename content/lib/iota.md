@@ -1,0 +1,22 @@
+---
+title: iota
+description: Miniature delta time and time dilation library for GameMaker 2022 LTS
+author: JuJuAdams
+github: https://github.com/JujuAdams/iota
+tags: iota
+documentation: https://JuJuAdams.github.io/iota
+---
+<p align="center"><img src="https://raw.githubusercontent.com/JujuAdams/iota/master/LOGO.png" style="display:block; margin:auto; width:300px"></p>
+<h1 align="center">iota 4.0.0</h1>
+
+<p align="center">Miniature delta time and time dilation library for GameMaker 2022 LTS</p>
+
+&nbsp;
+
+&nbsp;
+
+- ### [Download the .yymps](https://github.com/JujuAdams/iota/releases/)
+- ### Read the [documentation](http://jujuadams.github.io/iota)
+- ### You may also like [a DIY explanation](https://csanyk.com/2018/08/gamemaker-tutorial-delta-time/), the ["Fix Your Timestep" example](https://github.com/GameMakerDiscord/fix-your-timestep), or [GM Core’s “delta” module](https://github.com/gm-core/delta)
+
+    

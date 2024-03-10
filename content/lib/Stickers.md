@@ -1,0 +1,19 @@
+---
+title: Stickers
+description: Vertex buffer-based decal solution for GameMaker 2022 LTS
+author: tabularelf
+github: https://github.com/tabularelf/Stickers
+tags: Stickers
+documentation: https://docs.tabularelf.com/Stickers
+---
+<h1 align="center">Stickers v1.1.0</h1>
+<p align="center">Vertex buffer-based decal solution for GameMaker 2022 LTS by <a href="https://www.tabularelf.com" target="_blank">TabularElf</a></p>
+
+&nbsp;
+
+&nbsp;
+
+- ### [Download the .yymps](https://github.com/tabularelf/Stickers/releases/)
+- ### Talk about Stickers on [GameMaker Kitchen Discord Server](https://discord.gg/8krYCqr)
+
+    
