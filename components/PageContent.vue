@@ -40,12 +40,15 @@ const props = defineProps({
         type: String,
         required: true
     }
-})
+}); 
 
-const input = ref('');
+const route = useRoute(); 
+const router = useRouter();
+
+const input = ref<string>(route.query?.q?.toString() || '');
 const isLoading = ref<boolean>(false);
 const observerElement = ref(null); 
-const query: QueryBuilderParams = reactive({ where: [], limit: 10 });
+const query: QueryBuilderParams = reactive({ where: [], limit: Number(route.query.limit) || 10 });
 const totalItems = ref<number>(1);
 
 const getTotalItems = async () => {
@@ -62,6 +65,7 @@ getTotalItems();
 const resetQuery = () => {
     query.where = []; 
     query.limit = 10;
+    router.push({ path: route.path, query: { }})
 }
 
 const search = async () => {
@@ -84,6 +88,9 @@ const search = async () => {
         ], 
     }]
     query.limit = -1;
+
+
+    router.push({ path: route.path, query: { q: input.value }})
 }
 
 watch(input, () => {
@@ -106,6 +113,10 @@ const { stop } = useIntersectionObserver(
     threshold: 0.5,
   }
 );
+
+if (route.query.q) {
+    search();
+}
 
 onUnmounted(() => {
   stop();
