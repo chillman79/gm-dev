@@ -10,7 +10,7 @@
     </li>
     <li>
         <a href="/games"><strong>Made with GameMaker: </strong></a>
-        <p>Showcase of projects and games created using the GameMaker.</p>
+        <p>Showcase of projects and games created using GameMaker.</p>
     </li>
     <li>
         <a href="/blog"><strong>Blog: </strong></a>
